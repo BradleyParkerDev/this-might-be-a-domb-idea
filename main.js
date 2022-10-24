@@ -18,7 +18,7 @@ item3.innerText = 'I say, "Hi!"';
 
 let item16 = document.querySelector('#item-16');
 item16.innerText = "Won't get fooled again.";
-
+item16.className = "item";
 
 //Changes to img
 let myImage = document.querySelector("img");
