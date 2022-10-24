@@ -12,3 +12,14 @@ let item13 = document.querySelector('#item-13');
 item13.style.opacity = "0.5";
 let item3 = document.querySelector('#item-3');
 item3.innerText = 'I say, "Hi!"';
+let item16 = document.querySelector('#item-16');
+item16.innerText = "Won't get fooled again.";
+
+//Changes to img
+let myImage = document.querySelector("img");
+myImage.src = "https://img.xcitefun.net/users/2014/07/361484,xcitefun-nature-color-9.jpg";
+myImage.style.height = "300px";
+
+let myImage2 = document.querySelector("#image-2");
+myImage2.src = "https://www.publicdomainpictures.net/pictures/100000/velka/tree-1408915417NIZ.jpg";
+myImage2.style.height = "300px";
